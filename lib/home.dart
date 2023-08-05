@@ -141,7 +141,7 @@ class _HomeState extends State<Home> {
                   height: 70,
                   width: 70,
                   decoration: BoxDecoration(
-                    color: Colors.red,
+                    color: Colors.green,
                     borderRadius: const BorderRadius.all(
                       Radius.circular(50),
                     ),
