@@ -139,7 +139,7 @@ class _HomeState extends State<Home> {
               child: Center(
                 child: Container(
                   height: 70,
-                  width: 70,
+                  width: 200,
                   decoration: BoxDecoration(
                     color: Colors.green,
                     borderRadius: const BorderRadius.all(
