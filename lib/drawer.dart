@@ -12,7 +12,7 @@ class CustomDrawer extends StatelessWidget {
         border: Border.all(
           color: Colors.black,
         ),
-        color: Colors.white,
+        color: Color.fromARGB(255, 34, 204, 37),
         borderRadius: BorderRadius.only(
           topRight: Radius.circular(50),
           bottomRight: Radius.circular(50),

@@ -127,7 +127,7 @@ class _HomeState extends State<Home> {
               ),
             ),
           ),
-           Positioned(
+          Positioned(
             bottom: 40,
             left: 30,
             right: 30,
@@ -170,7 +170,6 @@ class _HomeState extends State<Home> {
             child: GestureDetector(
               onTap: () {
                 showCustomBottomSheet();
-               
               },
               child: Center(
                 child: Container(

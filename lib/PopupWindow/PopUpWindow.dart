@@ -13,7 +13,7 @@ class PopupWindow extends StatelessWidget {
           width: 300,
           height: 400,
           decoration: BoxDecoration(
-            color: Colors.white,
+            color: Color.fromARGB(255, 12, 207, 32),
             borderRadius: BorderRadius.all(
               Radius.circular(50),
             ),
